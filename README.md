@@ -12,11 +12,20 @@ My industrial sales engineering background taught me how to understand technical
 - **Data Analysis:** pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn, preprocessing pipelines, regression, classification, model evaluation
 - **Tools:** Jupyter Notebook, Git, GitHub, VS Code
-## Featured Project
+## Featured Projects
 
-### [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
+### 1. [Industrial Predictive Maintenance](https://github.com/HazimAli07/industrial-predictive-maintenance)
 
-End-to-end churn classification using 7,043 IBM telecom customer records. The project demonstrates leakage-safe preprocessing, logistic regression, cross-validation, model interpretation, automated testing, and GitHub Actions.
+Flagship project combining mechanical engineering and machine learning to predict equipment failures from 10,000 industrial operating records.
+
+- **ROC-AUC:** 0.984
+- **PR-AUC:** 0.881
+- **Recall:** 0.838
+- **Tools:** Python, pandas, scikit-learn, Random Forest, Matplotlib, Seaborn, GitHub Actions
+
+### 2. [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
+
+End-to-end churn classification using 7,043 IBM telecom customer records with leakage-safe preprocessing, cross-validation, model interpretation, and automated testing.
 
 - **ROC-AUC:** 0.841
 - **Recall:** 0.783
