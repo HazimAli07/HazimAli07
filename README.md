@@ -12,7 +12,6 @@ My industrial sales engineering background taught me how to understand technical
 - **Data Analysis:** pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn, preprocessing pipelines, regression, classification, model evaluation
 - **Tools:** Jupyter Notebook, Git, GitHub, VS Code
-- 
 ## Featured Project
 
 ### [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
