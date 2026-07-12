@@ -12,6 +12,7 @@ My industrial sales engineering background taught me how to understand technical
 - **Data Analysis:** pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn, preprocessing pipelines, regression, classification, model evaluation
 - **Tools:** Jupyter Notebook, Git, GitHub, VS Code
+
 ## Featured Projects
 
 ### 1. [Industrial Predictive Maintenance](https://github.com/HazimAli07/industrial-predictive-maintenance)
@@ -45,3 +46,9 @@ I am seeking a **Winter 2027 co-op opportunity** in data analytics, applied AI, 
 ## Beyond Technology
 
 Former competitive swimmer and swimming coach. I also enjoy rugby, squash, and helping students build confidence in mathematics and science.
+
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hazim-ali-040620319/)
+- [GitHub Projects](https://github.com/HazimAli07?tab=repositories)
