@@ -15,7 +15,16 @@ I enjoy the work between raw data and useful decisions: validating source data, 
 
 ## Featured projects
 
-### 1. [Ontario Grid Demand Intelligence](https://github.com/HazimAli07/ontario-grid-demand-intelligence)
+### 1. [MapleGuard — Banking Transaction Risk Lakehouse](https://github.com/HazimAli07/mapleguard-banking-risk-lakehouse)
+
+Privacy-safe, end-to-end banking analytics platform using 60,000 deterministic synthetic Canadian transactions.
+
+- Bronze/Silver/Gold Databricks pipeline with governed Delta data products
+- Time-aware transaction-risk model with **0.798 holdout ROC-AUC**
+- Executive Databricks dashboard and transparent human-review alert queue
+- SQL analytics, automated tests, GitHub Actions and a [live recruiter case study](https://hazimali07.github.io/mapleguard-banking-risk-lakehouse/)
+
+### 2. [Ontario Grid Demand Intelligence](https://github.com/HazimAli07/ontario-grid-demand-intelligence)
 
 Individual end-to-end energy analytics project using official IESO hourly demand reports.
 
@@ -25,11 +34,11 @@ Individual end-to-end energy analytics project using official IESO hourly demand
 - **39.3% lower MAE** than the same-hour-last-week baseline
 - Streamlit operations dashboard, SQL, automated tests and a Databricks notebook
 
-### 2. [FreshRoute Grocery Delivery Analytics](https://github.com/HazimAli07/grocery-delivery-analytics-pipeline)
+### 3. [FreshRoute Grocery Delivery Analytics](https://github.com/HazimAli07/grocery-delivery-analytics-pipeline)
 
 Team Databricks analytics platform using PySpark, Delta tables, data-quality checks, Gold marts, SQL dashboard queries and a published dashboard. My documented ownership covered customer analysis and final integration.
 
-### 3. [Industrial Predictive Maintenance](https://github.com/HazimAli07/industrial-predictive-maintenance)
+### 4. [Industrial Predictive Maintenance](https://github.com/HazimAli07/industrial-predictive-maintenance)
 
 Imbalance-aware failure-prediction pipeline on 10,000 industrial operating records.
 
@@ -37,7 +46,7 @@ Imbalance-aware failure-prediction pipeline on 10,000 industrial operating recor
 - **PR-AUC:** 0.881
 - **Recall:** 0.838
 
-### 4. [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
+### 5. [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
 
 Leakage-safe churn classification on 7,043 IBM telecom records, with reproducible preprocessing, model evaluation, interpretation and automated testing.
 
