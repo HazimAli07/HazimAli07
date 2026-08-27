@@ -1,17 +1,17 @@
 # Hi, I'm Hazim Ali 👋
 
-### Mechanical Engineer + AI & Data Student | Python, SQL, PySpark, Databricks, Machine Learning & Analytics
+### Data Analyst | Applied AI & Machine Learning | Mechanical Engineer
 
-I combine a mechanical-engineering background and more than five years of industrial client experience with practical data engineering, analytics and machine learning. I am completing Sheridan College's Artificial Intelligence: Development and Applications program and seeking a **Winter 2027 co-op** in the Greater Toronto Area.
+I am completing Sheridan College's **Artificial Intelligence – Development and Applications (PAIDA)** program from **January 2026 to April 2027 (in progress)**. I combine applied AI and data training with more than five years of mechanical-engineering, industrial-systems and technical-operations experience.
 
-I enjoy the work between raw data and useful decisions: validating source data, building reproducible pipelines, evaluating models honestly and communicating results clearly.
+I build reproducible data pipelines, decision-support dashboards and machine-learning workflows that turn raw data into clear, evidence-based recommendations. I am seeking a **Winter 2027 co-op** in the Greater Toronto Area.
 
 ## Technical toolkit
 
 - **Data engineering:** Python, SQL, PySpark, Databricks, Delta Lake, Bronze-Silver-Gold architecture
-- **Analytics:** pandas, NumPy, data quality, KPI design, Plotly, Streamlit, dashboard development
+- **Analytics and BI:** pandas, NumPy, data quality, KPI design, Plotly, Streamlit, dashboard development
 - **Machine learning:** scikit-learn, regression, classification, time-series features, chronological validation, model interpretation
-- **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook
+- **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook, technical documentation
 
 ## Featured projects
 
@@ -55,7 +55,11 @@ Leakage-safe churn classification on 7,043 IBM telecom records, with reproducibl
 
 ## Roles I am targeting
 
-Data Analyst · BI Analyst · Data Engineer · Analytics Engineer · Data Scientist · AI/Automation Analyst · Technical Analyst
+Data Analyst · BI Analyst · Analytics Engineer · Junior Data Engineer · Applied AI/ML Analyst · Technical Analyst
+
+## Languages
+
+Arabic (Native) · English (Native) · German (Fluent) · Russian (Fluent)
 
 ## Beyond technology
 
@@ -64,4 +68,5 @@ Former competitive swimmer and swimming coach. I also enjoy rugby, squash, and h
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hazim-ali-data/)
+- [MapleGuard live case study](https://hazimali07.github.io/mapleguard-banking-risk-lakehouse/)
 - [GitHub projects](https://github.com/HazimAli07?tab=repositories)
