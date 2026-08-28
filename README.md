@@ -11,7 +11,7 @@ I build reproducible data pipelines, decision-support dashboards and machine-lea
 - **Data engineering:** Python, SQL, PySpark, Databricks, Delta Lake, Bronze-Silver-Gold architecture
 - **Analytics and BI:** pandas, NumPy, data quality, KPI design, Plotly, Streamlit, dashboard development
 - **Machine learning:** scikit-learn, regression, classification, time-series features, chronological validation, model interpretation
-- **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook, technical documentation
+- **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook, Kaggle Notebooks, technical documentation
 
 ## Featured projects
 
@@ -45,6 +45,7 @@ Imbalance-aware failure-prediction pipeline on 10,000 industrial operating recor
 - **ROC-AUC:** 0.984
 - **PR-AUC:** 0.881
 - **Recall:** 0.838
+- [Public Kaggle notebook](https://www.kaggle.com/code/hazimali07/industrial-predictive-maintenance-failure-ml) with the complete leakage-safe analysis, plots, limitations and runnable code
 
 ### 5. [Customer Churn Machine-Learning Pipeline](https://github.com/HazimAli07/customer-churn-ml-pipeline)
 
@@ -68,5 +69,6 @@ Former competitive swimmer and swimming coach. I also enjoy rugby, squash, and h
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hazim-ali-data/)
+- [Kaggle profile and notebooks](https://www.kaggle.com/hazimali07)
 - [MapleGuard live case study](https://hazimali07.github.io/mapleguard-banking-risk-lakehouse/)
 - [GitHub projects](https://github.com/HazimAli07?tab=repositories)
