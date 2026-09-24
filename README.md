@@ -10,7 +10,7 @@ I build reproducible data pipelines, decision-support dashboards and machine-lea
 
 - **Data engineering:** Python, SQL, PySpark, Databricks, Delta Lake, Bronze-Silver-Gold architecture
 - **Analytics and BI:** pandas, NumPy, data quality, KPI design, Plotly, Streamlit, dashboard development
-- **Machine learning:** scikit-learn, regression, classification, time-series features, chronological validation, model interpretation
+- **Machine learning:** scikit-learn, PyTorch, regression, classification, time-series features, chronological validation, model interpretation
 - **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook, Kaggle Notebooks, technical documentation
 
 ## Featured projects
@@ -53,6 +53,14 @@ Leakage-safe churn classification on 7,043 IBM telecom records, with reproducibl
 
 - **ROC-AUC:** 0.841
 - **Recall:** 0.783
+
+### 6. [ThreadSight — Image Recognition with ML and DL](https://github.com/HazimAli07/threadsight-image-recognition)
+
+Fashion-MNIST clothing recognition project comparing a classical scikit-learn classifier with a PyTorch convolutional neural network on the same 10,000-image test set.
+
+- **Test accuracy:** 90.88% CNN; 82.59% classical ML baseline
+- Reproducible training, per-class evaluation, trained model files and a local browser demo
+- [Results and limitations](https://github.com/HazimAli07/threadsight-image-recognition/blob/main/reports/RESULTS.md)
 
 ## Roles I am targeting
 
