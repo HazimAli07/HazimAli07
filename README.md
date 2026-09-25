@@ -59,7 +59,7 @@ Leakage-safe churn classification on 7,043 IBM telecom records, with reproducibl
 Fashion-MNIST clothing recognition project comparing a classical scikit-learn classifier with a PyTorch convolutional neural network on the same 10,000-image test set.
 
 - **Test accuracy:** 90.88% CNN; 82.59% classical ML baseline
-- Reproducible training, per-class evaluation, trained model files and a local browser demo
+- Reproducible training, per-class evaluation, trained model files, and a [live browser demo](https://hazimali07.github.io/threadsight-image-recognition/)
 - [Results and limitations](https://github.com/HazimAli07/threadsight-image-recognition/blob/main/reports/RESULTS.md)
 
 ## Roles I am targeting
