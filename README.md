@@ -13,6 +13,12 @@ I build reproducible data pipelines, decision-support dashboards and machine-lea
 - **Machine learning:** scikit-learn, PyTorch, regression, classification, time-series features, chronological validation, model interpretation
 - **Engineering practice:** Git, GitHub, pytest, GitHub Actions, Jupyter Notebook, Kaggle Notebooks, technical documentation
 
+## Verified learning credentials
+
+- **Databricks Academy accreditations:** [Databricks Fundamentals](https://credentials.databricks.com/a685873c-8639-4a6c-8855-1069580adc1e) · [Generative AI Fundamentals](https://credentials.databricks.com/7b007b30-4a50-45df-b017-c73275e9ef64) · [AI Agent Fundamentals](https://credentials.databricks.com/0fb7d190-8e05-4122-8baa-07c67026a0f8)
+- **IBM SkillsBuild:** [Data Fundamentals](https://www.credly.com/badges/d127dcb1-4a36-474f-b6d1-750b67432117/public_url)
+- **Kaggle Learn:** [Intro to Machine Learning](https://www.kaggle.com/learn/certification/hazimali07/intro-to-machine-learning)
+
 ## Featured projects
 
 ### 1. [MapleGuard — Banking Transaction Risk Lakehouse](https://github.com/HazimAli07/mapleguard-banking-risk-lakehouse)
